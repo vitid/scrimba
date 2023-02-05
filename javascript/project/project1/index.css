@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.board-score {
+    background: black;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    width: 160;
+    height: 120;
+
+    text-align: center;
+
+    color: #F94F6D;
+    padding-top: 30px;
+    border-radius: 5%;
+}
+
+.board-ctrl{
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    
+    text-align: center;
+    
+    color: #9AABD8;
+
+    border: 2px solid #9AABD8;
+    background: #1B244A;
+    border-radius: 5px;
+
+    margin: 0px 3px;
+    padding: 10px 10px 5px 10px;
+}
+
+button:hover {
+    color: #F94F6D;
+    border-color: #F94F6D;
+    cursor: pointer;
+}
+
+h3 {
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+
+    text-align: center;
+
+    color: #EEEEEE;
+}
