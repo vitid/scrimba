@@ -1,0 +1,17 @@
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin: 0px 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;;
+}
+
+.myImage {
+    width: 40px;
+}

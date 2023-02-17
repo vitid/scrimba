@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+}
+
+.navbar {
+    font-family: 'Inter';
+    font-style: normal;
+    background: #21222A;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 15px 25px 0px 25px;
+}
+
+.navbar-title {
+    display: flex;
+    font-weight: 700;
+    font-size: 25px;
+    
+    color: #61DAFB;
+}
+
+.navbar-title h1 {
+    font-size: 25px; 
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.navbar-desc {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+
+    color: #DEEBF8;
+}
+
+body{
+    padding: 0px;
+}
